@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  background-color: #c14da2;
+}
+
+.conteudo {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  height: 90vh;
+}
+
+#numero {
+  display: block;
+  font-size: 100px;
+  font-weight: bold;
+  margin: 0 20px;
+  color: darkgreen;
+}
+
+.botoes button {
+  background-color: aqua;
+  color: crimson;
+  font-weight: bold;
+  border-radius: 14px;
+  border-color: yellow;
+  width: 90px;
+}
+
+.botoes {
+  display: flex;
+  gap: 0 40px;
+}
+
+/*
+01010010 00110001 00110100
+*/
