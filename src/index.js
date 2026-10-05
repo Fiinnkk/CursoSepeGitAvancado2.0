@@ -16,5 +16,13 @@ diminuir.addEventListener("click", function(){
     contador--
     atualizar()
 });
+reset.addEventListener("click", function(){
+    resetar()
+});
+
+function resetar(){
+    contador = 0
+    atualizar()
+}
 
 
