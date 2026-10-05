@@ -1,10 +1,10 @@
-# 🛠️ Tutorial Prático Hands-On: Git Avançado
+#  Tutorial Prático Hands-On: Git Avançado
 
 Bem-vindo ao laboratório prático de Git! Este roteiro foi desenhado para ser executado em qualquer computador com Git instalado, sem precisar instalar bancos de dados, servidores ou frameworks.
 
 ---
 
-## 🎯 Missão 0: Preparando o Terreno
+##  Missão 0: Preparando o Terreno
 
 Abra o terminal do seu computador (ou o terminal integrado do VS Code com `Ctrl + ~`):
 
@@ -147,7 +147,7 @@ git switch main
 git merge escudo-lendario
 ```
 
-💥 **O Terminal vai gritar:**
+ **O Terminal vai gritar:**
 ```text
 Auto-merging aventura.txt
 CONFLICT (content): Merge conflict in aventura.txt
@@ -224,7 +224,7 @@ git revert a1b2c3d
 
 ---
 
-## 🏆 Resumo de Bolso dos Comandos
+##  Resumo de Bolso dos Comandos
 
 | O que você quer fazer? | Comando |
 | :--- | :--- |

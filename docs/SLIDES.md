@@ -32,13 +32,13 @@ style: |
 ---
 
 <!-- _class: lead -->
-# 🚀 Git Avançado
+# Git Avançado
 ### O Multiverso do Código e o Fim do Medo de Conflitos
 **Oficina de 1 Hora • Ensino Médio**
 
 ---
 
-## 😱 Quem nunca passou por isso?
+## Quem nunca passou por isso?
 
 - `trabalho_historia.docx`
 - `trabalho_historia_FINAL.docx`
@@ -49,10 +49,10 @@ style: |
 
 ---
 
-## 🧠 Como o Git Pensa (Por Baixo dos Panos)
+## Como o Git Pensa (Por Baixo dos Panos)
 
 - **Git Básico:** "Eu salvo linhas de texto que mudaram."
-- **Git Avançado (A Verdade):** 
+- **Git Avançado (A Verdade):**
   - O Git tira **Snapshots (fotos)** do projeto inteiro a cada commit.
   - Commits são nós interligados num **Grafo** (uma linha do tempo).
   - **`HEAD`** é a câmera: ela diz exatamente onde você está no multiverso.
@@ -60,7 +60,7 @@ style: |
 
 ---
 
-## 🗺️ Os Estados de um Arquivo
+## Os Estados de um Arquivo
 
 1. **Working Directory:** Sua mesa de trabalho (onde você escreve).
 2. **Staging Area (`git add`):** A caixa de envio (o que vai na foto).
@@ -69,7 +69,7 @@ style: |
 
 ---
 
-## 🌿 Branches: O Multiverso dos Desenvolvedores
+## Branches: O Multiverso dos Desenvolvedores
 
 Por que criar branches?
 - Para desenvolver um recurso novo sem quebrar o que já está funcionando.
@@ -88,7 +88,7 @@ git switch main
 
 ---
 
-## 📦 `git stash`: O "Pause" do Videogame
+## `git stash`: O "Pause" do Videogame
 
 **Cenário Real:**
 Você está no meio de um código pela metade e com erros. O professor ou seu colega pede para você corrigir algo urgente na branch `main`.
@@ -141,7 +141,7 @@ Missão: Fazer amizade com o dragão de gelo
 
 ---
 
-## 🛠️ Prática Relâmpago: Gerando um Conflito
+## Prática Relâmpago: Gerando um Conflito
 
 1. Na branch `main`, adicione no arquivo `jogo.txt`:
    ```text
@@ -177,7 +177,7 @@ git revert HASH_DO_COMMIT
 
 ---
 
-## ⚠️ A Caixa de Pandora: `git reset`
+## A Caixa de Pandora: `git reset`
 
 O `git reset` mexe nos ponteiros da história.
 
@@ -189,7 +189,7 @@ O `git reset` mexe nos ponteiros da história.
 
 ---
 
-## ✍️ Falando a Língua do Mercado: Conventional Commits
+## Falando a Língua do Mercado: Conventional Commits
 
 Pare de commitar coisas como: `"arrumei"`, `"teste"`, `"foi agora"`, `"asdasd"`.
 
@@ -201,7 +201,7 @@ Adote o padrão internacional:
 
 ---
 
-## 🏆 Resumo Ninja em 4 Comandos de Ouro
+## Resumo Ninja em 4 Comandos de Ouro
 
 | Quero... | Comando |
 | :--- | :--- |

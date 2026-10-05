@@ -1,8 +1,8 @@
-# 📋 Plano de Ensino: Git Avançado Descomplicado (1h)
+# Plano de Ensino: Git Avançado Descomplicado (1h)
 
-> **Público-Alvo:** Estudantes do Ensino Médio em evento/minicurso universitário (SEPE ou similar)  
-> **Duração Total:** 60 minutos  
-> **Pré-requisitos dos Alunos:** Conhecimento prévio básico ou noção superficial de terminal/computação (não exige saber programar).  
+> **Público-Alvo:** Estudantes do Ensino Médio em evento/minicurso universitário (SEPE ou similar)
+> **Duração Total:** 60 minutos
+> **Pré-requisitos dos Alunos:** Conhecimento prévio básico ou noção superficial de terminal/computação (não exige saber programar).
 > **Foco:** Prática colaborativa real, desmistificação de conflitos, branches e kit salva-vidas do Git — sem ruído de servidores ou código legado.
 
 ---
